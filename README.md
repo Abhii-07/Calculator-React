@@ -7,18 +7,7 @@
     <a href="https://catherineisonline.github.io/calculator/" color="white">
       Live
     </a>
-    <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/calculator-app-QeAU-DdsSj">
-      Solution
-    </a>
-   <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29">
-      Challenge
-    </a>
   </h3>
-</div>
-<div align="center">
-   Solution for a challenge from  <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
 </div>
 <br>
 <br>
@@ -43,12 +32,10 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Built with
 
+- React
 - Semantic HTML5 markup
 - CSS custom properties
-- Flex
-- Grid
-- Desktop-first workflow
-- React
+
 
 ## What I learned
 
@@ -59,6 +46,3 @@ I learned how to do simple math calculations using functions, condiitons and per
 1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
 2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
-## Acknowledgments
-
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/calculator-app-QeAU-DdsSj">solution</a>. It definitely helps to find new ways to code and find easier solutions!
