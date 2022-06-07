@@ -6,7 +6,7 @@ import { basic, light, dark } from "../assets/Theme.styled.js";
 export default function Header({ HandleThemeChange }) {
   return (
     <header>
-      <h1 className="title">calc</h1>
+      <h1 className="title">CALCULATOR</h1>
       <section className="themes">
         <p>THEME</p>
         <section className="theme-toggle">
