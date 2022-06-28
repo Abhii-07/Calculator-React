@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-<!-- <img src="https://github.com/catherineisonline/calculator/blob/main/public/project-preview.png?raw=true"></img> -->
 ![Screenshot](/src/Screenshots/theme1.png)
 ![Screenshot](/src/Screenshots/theme2.png)
 ![Screenshot](/src/Screenshots/theme3.png)
 
 =======
-<img src="https://github.com/catherineisonline/calculator/blob/main/public/project-preview.png?raw=true"></img>
-(/Screenshot/theme1)
->>>>>>> 176d4c70231a8ec295a8ef56b57bb5b803f73158
-
-![ScreenShot of Form](Screenshot/theme1.png)
-
 <div align="center">
   <h3>
     <a href="https://catherineisonline.github.io/calculator/" color="white">
